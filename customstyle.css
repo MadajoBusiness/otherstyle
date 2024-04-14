@@ -1,0 +1,72 @@
+
+body {color:#3C4754; }
+body {-webkit-background-size: 100% 100%; -moz-background-size: 100% 100%; -o-background-size: 100% 100%; background-size: 100% 100%; background-attachment: fixed;}
+.page-content {background:rgba(255,255,255,0.6);	}
+.image-text-box, .register-button-line {background:rgba(60,71,84,0.8);	}
+ 
+.home-start-image, #home-image-box {max-height:500}
+
+ 
+#header, #topmenu ul li ul { background:#ffffff;}
+
+.logotitle {color:#3C4754;}
+.logotitle a {color:#3C4754;}
+.logosubtitle { color:#3C4754; }
+
+h1, h1 a {color:#3C4754;}
+h2, h2 a {color:#3C4754;}
+h3, h3 a {color:#3C4754;}
+
+#topmenu ul li a { color:#3c4754;  }
+#topmenu ul li:hover a { color:#3c4754;}
+#topmenu ul li.current-menu-item a, #topmenu ul li.current_page_item a, #topmenu ul li.current_page_parent a, #topmenu ul li.current_page_ancestor a { color:#3c4754;}
+#topmenu ul li:hover ul li a, #topmenu ul li.current-menu-item ul li a, #topmenu ul li.current_page_item ul li , #topmenu ul li.current_page_parent ul li a,
+#topmenu ul li:hover ul li ul li a, #topmenu ul li.current-menu-item ul li ul li a, #topmenu ul li.current_page_item ul li ul li a, #topmenu ul li.current_page_parent ul li ul li a { color:#3c4754;}
+#topmenu ul li ul li:hover a, #topmenu ul li ul li ul li:hover a  { color:#3c4754;}
+#topmenu ul li ul li.current-menu-item a, #topmenu ul li ul li.current_page_item a, #topmenu ul li ul li.current_page_parent a, #topmenu ul li ul li.current_page_ancestor a  { color:#3c4754;}
+
+
+
+
+
+a.content-button, .register-button-line a.register-button, .contactform button, .wpcf7 .wpcf7-submit, #respond input#submit, .notfoundsearch input#searchsubmit, .searchbox input#searchsubmit { background:#dd3333; color:#ffffff; }
+a.content-button:hover, .contactform button:hover, .wpcf7 .wpcf7-submit:hover, #respond input#submit:hover, .notfoundsearch input#searchsubmit:hover, .searchbox input#searchsubmit:hover { background:#898989; color:#ffffff;} 
+
+.footer {background:#dd3333; color:#ffffff;}
+
+.footer-box a, .bottomline { color:#ffffff; }
+.bottomline { border-top:1px dotted #ffffff; }
+
+.smicons span { background:#3c4754; }
+.smicons span:hover, #filters button:hover, #filters .is-checked {background:#3c4754; }
+
+.page-entry [class^="flaticon-"]:before, .page-entry [class*=" flaticon-"]:before,
+.page-entry [class^="flaticon-"]:after, .page-entry [class*=" flaticon-"]:after { color:#88919C;  }
+
+.licensebox:hover {background:#dd3333}
+
+.postdate {background:#3C4754}
+.license, .pagetop {background:#dd3333}
+.license a {color:#ffffff;}
+
+.post-nav .current {background:#3c4754; color:#fff;}
+.post-nav a, .meta-category a:hover, .list-meta-category a:hover, #sidebar ul li a:hover, p a, li a, #sidebar ul li.current_page_item a, #sidebar ul li.current-menu-item a, #sidebar ul li.current-cat a, a.post-more, .postmeta a:hover, #wp-calendar th, h3 a:hover, h2 a:hover, .page-nav a, label a  {color:#3c4754;}
+
+.logo {max-width:350px;}
+.logo img {width:100%; height:auto; display:block;}
+.top-left { max-width:350px; }
+.top-right {width:calc(100% - 350px); }
+@media screen and (max-width: 360px)  {
+.top-left { max-width:280px !important;}	
+}
+@media screen and (max-width: 320px)  {
+.top-left { max-width:240px !important;}
+}
+
+
+@media screen and (max-width: 800px)  {
+ } 
+
+
+
+body {color:#47535F;}
